@@ -1,2 +1,2 @@
 # Microcontroller-Brake-Light-Sequence
-Two files are in repository: one written in Assembly and another written in C. This code was written for the ATmega328PB. The Assembly version uses a two-switch variable input while the C version only uses one switch input.
+This project was written in Assembly using Microchip Studio 7.0 for the ATmega328PB. A circuit that utilizes the microcontroller, two switch inputs and six output LEDs can use this code to replicate old Thunderbird and Mustang tail light sequences. 
